@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on the [Kubevious CLI](https://github.com/kubevious/cli) project.
+- 🔭 I’m currently working on the [Kubevious](https://github.com/kubevious/kubevious) project.
 - 💬 You can ask me about Kubernetes and Cloud-native.
 - 📫 Reach me at r@kubevious.io
 - ⚡ Fun fact. I had built a trading robot, which so far had never gotten into an infinite loop... knock the wood...
